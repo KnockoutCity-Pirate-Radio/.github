@@ -21,6 +21,9 @@ I do **not** host the game itself. The `Knockout City - Private Server Edition` 
 - **[Pirate Radio Mods](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods)**
   > 📜 This repository stores the mod listings and manifest data used by the `Pirate Radio: Client`.
 
+- **[KnockoutCity-SDK](https://github.com/KnockoutCity-Pirate-Radio/KnockoutCity-SDK)**
+  > 📚 This repository contains an SDK that allows the interaction with `Knockout City` via TypeScript.
+
 ---
 
 ### A Note on closed-source Tooling
