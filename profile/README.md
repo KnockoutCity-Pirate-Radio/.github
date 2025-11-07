@@ -10,11 +10,11 @@ I do **not** host the game itself. The `Knockout City - Private Server Edition` 
 
 ### The Repositories
 
-- **[Pirate Radio Issues](https://github.com/KnockoutCity-Pirate-Radio/Pirate-Radio-Issues)**
+- **[Pirate Radio Issues](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Issues)**
 
   > 🐛 The central location for tracking bugs, issues, and feature requests for tools. If you found a bug, please report it here!
 
-- **[Pirate Radio Artifacts](https://github.com/KnockoutCity-Pirate-Radio/Pirate-Radio-Artifacts)**
+- **[Pirate Radio Artifacts](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts)**
 
   > 📦 This repository contains the downloadable artifacts (e.g., releases and binaries) for the main `Pirate Radio` applications.
 
