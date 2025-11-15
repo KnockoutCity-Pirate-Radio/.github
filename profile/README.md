@@ -10,16 +10,17 @@ I do **not** host the game itself. The `Knockout City - Private Server Edition` 
 
 ### The Repositories
 
-- **[Pirate Radio Issues](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Issues)**
+- **[Roadmap](https://github.com/orgs/KnockoutCity-Pirate-Radio/projects/1)**
+  > 🗺️ A roadmap overview of all the bugs and features with their respective status 
 
+- **[Pirate Radio Issues](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Issues)**
   > 🐛 The central location for tracking bugs, issues, and feature requests for tools. If you found a bug, please report it here!
 
 - **[Pirate Radio Artifacts](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts)**
-
   > 📦 This repository contains the downloadable artifacts (e.g., releases and binaries) for the main `Pirate Radio` applications.
 
 - **[Pirate Radio Mods](https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods)**
-  > 📜 This repository stores the mod listings and manifest data used by the `Pirate Radio: Client`.
+  > 📜 This repository stores the mod listings and manifest data used by the `Pirate Radio: Launcher`.
 
 - **[KnockoutCity-SDK](https://github.com/KnockoutCity-Pirate-Radio/KnockoutCity-SDK)**
   > 📚 This repository contains an SDK that allows the interaction with `Knockout City` via TypeScript.
